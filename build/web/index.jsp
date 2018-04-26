@@ -44,20 +44,41 @@
 
                               <form>
                                     <div class="form-group">
-                                      <label for="exampleInputEmail1">Endereço de Email</label>
-                                      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="exemplo@servico.com">
-                                      <small id="emailHelp" class="form-text text-muted">Nunca vamos compartilhar seu e-mail com mais ninguém.</small>
+                                     
+                                  <table>
+ 
+  <tr>
+    <td> <label for="exampleInputEmail1">Endereço de Email</label></td>
+    <td><input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="exemplo@servico.com">
+                                      </td>
+    
+  </tr>
+  <tr>
+    <td><label for="exampleInputPassword1">Senha</label></td>
+    <td><input type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha"></td>
+  
+  </tr>
+  <tr>
+    <td><input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                      <label class="form-check-label" for="exampleCheck1">Check me out</label></td>
+   
+  </tr>
+  <tr>
+    <td>  <!--<button type="submit" class="btn btn-primary">Entrar</button>-->
+                                    <left><p><a class="btn btn-primary " href="pages/home.jsp">home</a></p></left></td>
+   
+  </tr>
+</table>
+<small id="emailHelp" class="form-text text-muted">Nunca vamos compartilhar seu e-mail com mais ninguém.</small>
+                                      
+                                      
+                                   
+                                      
                                     </div>
-                                    <div class="form-group">
-                                      <label for="exampleInputPassword1">Senha</label>
-                                      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Senha">
-                                    </div>
-                                    <div class="form-check">
-                                      <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                      <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                                    </div>
-                                    <!--<button type="submit" class="btn btn-primary">Entrar</button>-->
-                                    <center><p><a class="btn btn-primary " href="pages/home.jsp">home</a></p></center>
+                                  
+                                    
+                                    
+                                    
                               </form>
 
                       </divclass>
