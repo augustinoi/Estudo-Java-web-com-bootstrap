@@ -9,7 +9,7 @@
 
 <html lang="pt-br">
     <head>
-            <meta charset="UTF-8">
+            <meta charset="UTF-8"> 
             <meta name="viewport" content="width=devicre-width, initial-scale=1">
             <link rel="shortcut icon" href="imagens/favicon/favicon.ico" type="image/x-icon" />
             
